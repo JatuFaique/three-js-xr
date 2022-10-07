@@ -4,6 +4,9 @@ import React from "react";
 import Plane from "./Plane";
 import Box from "./Box";
 
+// Play around with basics of three js
+// ex. Mesh, geometries, Positions and rotations
+
 export default function Playground() {
   return (
     <Canvas>
